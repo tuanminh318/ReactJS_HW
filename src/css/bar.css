@@ -1,0 +1,11 @@
+.Bar-icon{
+    color: #8ddfe4;
+    font-size:34px;
+}
+.Bar-number p:nth-child(1){
+    font-size: 32px;
+    font-weight: bold;
+}
+.Bar-number p:nth-child(2){
+    font-size: 15px;
+}
