@@ -3,10 +3,12 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import { CountdownTimer } from './components/count-down-timer/count-down-timer';
 
 ReactDOM.render(
   <React.StrictMode>
     <App />
+    {/* <CountdownTimer /> */}
   </React.StrictMode>,
   document.getElementById('root')
 );

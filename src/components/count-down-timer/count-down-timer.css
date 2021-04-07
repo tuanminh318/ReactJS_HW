@@ -1,0 +1,11 @@
+#currentTime{
+    background: yellowgreen;
+    margin-top: 10px;
+    padding: 20px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    margin-bottom: 1rem;
+    font-size:15px;
+    font-weight: 700;
+}

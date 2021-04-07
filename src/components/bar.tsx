@@ -3,9 +3,9 @@ import '../css/bar.css';
 
 interface BarProps 
 {
-    icon: any,
-    number: string,
-    text: string
+    icon?: any,
+    number?: string,
+    text?: string
 }
 
 export const Bar = ({...props}: BarProps) => {
